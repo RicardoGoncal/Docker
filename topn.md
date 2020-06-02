@@ -27,4 +27,4 @@
     funções, como: soma, filtros, agrupamento, sortseries, top, groupby....<br />
 </p>
 
-<img src="https://github.com/RicardoGoncal/Docker/blob/master/topn3.jpg">
+<img src="https://github.com/RicardoGoncal/Docker/blob/master/topn3.jpg" height="200" width="200">
