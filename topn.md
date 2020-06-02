@@ -27,4 +27,4 @@
     funções, como: soma, filtros, agrupamento, sortseries, top, groupby....<br />
 </p>
 
-<img src="/Users/re92251z/Documents/TopN/topn3.jpg">
+<img src="D:/Users/re92251z/Documents/TopN/topn3.jpg">
