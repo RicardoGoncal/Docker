@@ -24,6 +24,6 @@
 <p>
     A imagem abaixo faz uma pequena demonstração de como o painel ficou, além de apresentar<br />
     uma tabela com as opções que são possiveis. Fora ela temos mais algumas que executam diferentes<br />
-    funções, como: soma, filtros, agrupamento, sortseries, top, groupby....
-    <img src="topn3.png" />
+    funções, como: soma, filtros, agrupamento, sortseries, top, groupby....<br />
+    <img src='topn3.png' />
 </p>
