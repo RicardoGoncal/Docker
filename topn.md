@@ -27,4 +27,4 @@
     funções, como: soma, filtros, agrupamento, sortseries, top, groupby....<br />
 </p>
 
-<img src = "topn3.jpg" />
+<![Texto alternativo opcional se a imagem não carregar](http://www.exemplodeurl.com/logo.png)
