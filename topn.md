@@ -10,5 +10,5 @@
 <p>
     Ao trabalhar com esse datasource podemos ver que existem muitas maneiras<br />
     de realizar uma consulta em sua base de dados. Porém para esse documento<br />
-    coloco o foco em sua ordenação de dados, principalemente se tratando de métricas<br />
+    coloco o foco em sua ordenação de dados, principalemente se tratando de métricas.
 </p>
