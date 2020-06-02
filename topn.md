@@ -1,5 +1,6 @@
 <h1> Relatório Top N - Home Page Sicredi </h1>
 
+<body>
 <h2> Objetivo do relatório </h2>
 <p>
     Este relatório tem como objetivo apresentar algumas demonstrações<br />
@@ -25,5 +26,7 @@
     A imagem abaixo faz uma pequena demonstração de como o painel ficou, além de apresentar<br />
     uma tabela com as opções que são possiveis. Fora ela temos mais algumas que executam diferentes<br />
     funções, como: soma, filtros, agrupamento, sortseries, top, groupby....<br />
-    <img src='topn3.jpg'>
 </p>
+
+    ![Texto alternativo opcional se a imagem não carregar](http://www.exemplodeurl.com/logo.png)
+</body>
