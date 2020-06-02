@@ -25,6 +25,9 @@
     A imagem abaixo faz uma pequena demonstração de como o painel ficou, além de apresentar<br />
     uma tabela com as opções que são possiveis. Fora ela temos mais algumas que executam diferentes<br />
     funções, como: soma, filtros, agrupamento, sortseries, top, groupby....<br />
+    Dentro da imagem podemos perceber o método de SortSeries que foi utilizado<br />
+    como tentativa de ordenar, porém o resultado é a ordenação do nome dos host e<br />
+    não os valores.
 </p>
 
 <img src="https://github.com/RicardoGoncal/Docker/blob/master/topn3.jpg" height="300" width="700">
