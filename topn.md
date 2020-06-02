@@ -15,6 +15,15 @@
 <p>
     Para o campo de métricas após realizar um painel com os 10 maiores valores de CPU,<br />
     foi percebido que deveria ser ordenado de acordo com o mair uso, mas isso não ocorreu.<br />
-    Mas porque? Através desta pergunta varias modificações foram realizadas, mas visto que<br />
-    o plugin em si não tem um suporte para escolha de qual campo podemos aplicar a ordenação.
+    Mas porque? Através desta pergunta varias modificações foram realizadas, mas foi visto que<br />
+    o plugin em si não tem um suporte para escolha de qual campo podemos aplicar a ordenação<br />
+    pela coluna desejada, ele entende a ordenação de acordo com alguma configuração do Zabbix<br />
+    em seu interior podendo ser por timestamp, aplicação ou até mesmo um item travado dentro<br />
+    da aplicação.
+</p>
+<p>
+    A imagem abaixo faz uma pequena demonstração de como o painel ficou, além de apresentar<br />
+    uma tabela com as opções que são possiveis. Fora ela temos mais algumas que executam diferentes<br />
+    funções, como: soma, filtros, agrupamento, sortseries, top, groupby....
+    <img src="topn3.png">
 </p>
