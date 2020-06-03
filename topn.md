@@ -79,8 +79,8 @@
 
 <h2> Considerações finais </h2> 
 <p>
-    Com a realização das 3 demonstrações com diferentes DataSources podemos observar que cada um<br />
-    possui suas caracteristicas de manipulação através de plugins no Grafana. Logo podemos<br />
-    ter uma noção do que é possível desenvolver dentro de cada ambiente, sendo necessarias<br />
-    adaptações para casos que fogem da realidade apresenteda.
+    Com a realização das 3 demonstrações com diferentes DataSources, podemos observar que cada um<br />
+    possui suas caracteristicas de manipulação através de plugins no Grafana. Logo é possivel<br />
+    ter uma noção de desenvolvimento dentro de cada ambiente, sendo necessarias se possiveis<br />
+    adaptações para casos que fogem da perspectiva desejada.
 </p>
