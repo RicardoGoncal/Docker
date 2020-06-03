@@ -47,5 +47,5 @@
     ordenação por uma coluna sem ser a de tempo. O plugin deixa bem claro que somente uma<br />
     pelo tempo, ou seja, pelo seu TimeStamp, é possível.
 </p>
-<img src="https://github.com/RicardoGoncal/Docker/blob/master/topn2.jpg" height="300" width="600"><br />
+<img src="https://github.com/RicardoGoncal/Docker/blob/master/topn2.jpg" height="300" width="600">
 <img src="https://github.com/RicardoGoncal/Docker/blob/master/topn1.jpg" height="300" width="600">
