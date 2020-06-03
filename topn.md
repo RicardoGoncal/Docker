@@ -57,7 +57,7 @@
 
 <h3> Grafana e MySQL </h3>
 <p>
-    Este ultimo teste consiste na utilização do MySQL como DataSource de pesquisa. Foi realizado<br />
+    Esta ultima DEMO consiste na utilização do MySQL como DataSource de pesquisa. Foi realizado<br />
     também uma base de dados simples contendo um TimeStamp e informações de temperatura.<br />
     O MySQL como plugin dentro do Grafana reage de uma maneira diferente, possibilitando<br />
     uma mescla maior de manipulação de informações. 
@@ -74,3 +74,13 @@
     a ordenação pela coluna AVG(TEMP_celsius).
 </p>
 <img src="https://github.com/RicardoGoncal/Docker/blob/master/topn4.jpg" height="300" width="600">
+
+<img src="https://github.com/RicardoGoncal/Docker/blob/master/topn5.jpg" height="300" width="600">
+
+<h2> Considerações finais </h2> 
+<p>
+    Com a realização das 3 demonstrações com diferentes DataSources podemos observar que cada um<br />
+    possui suas caracteristicas de manipulação através de plugins no Grafana. Logo podemos<br />
+    ter uma noção do que é possível desenvolver dentro de cada ambiente, sendo necessarias<br />
+    adaptações para casos que fogem da realidade apresenteda.
+</p>
