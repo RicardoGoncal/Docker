@@ -51,8 +51,8 @@
 <img src="https://github.com/RicardoGoncal/Docker/blob/master/topn1.JPG" height="300" width="600">
 <p>
     Com base nesse segundo estudo demonstrado, somos capazes de absorver mais uma integração<br />
-    que não foi possivel a combinação de ordenação de valores se tratando de métricas, sendo<br />
-    capaz de produzir paineis em formato de tabela para sua exibição.
+    que não foi possivel a combinação de ordenação de valores se tratando de métricas, mesmo<br />
+    que por código em SQL.
 </p>
 
 <h3> Grafana e MySQL </h3>
@@ -65,5 +65,12 @@
 <p>
     A imagem abaixo demonstra uma query realizada em cima dos dados simulados. Foi utilizado a<br />
     função de editar o código, algo que nos outros acima não era possivel. Se olharmos no campo<br />
-    'Format as', 
+    'Format as' é claro que está em sendo produzida uma query em cima da Serie temporal, mas<br />
+    devido a flexibiidade do MySQL ainda sim o resultado saiu em ordenação pelos valores. <br />
+    Logo através de uma query produzida manualemente foi possível colocar os campos desejados<br />
+    sempre acompanhado do TimeStamp, "algo que em todos os é meio que obrigatório", realizando<br />
+    o agrupamento de valores para não ocorrer erro, e se olhar ao final da linha de código<br />
+    temos um ORDER BY 2 DESC( trata-se da ordenção pelo valor pedido na seleção) que realiza<br />
+    a ordenação pela coluna AVG(TEMP_celsius).
 </p>
+<img src="https://github.com/RicardoGoncal/Docker/blob/master/topn4.jpg" height="300" width="600">
