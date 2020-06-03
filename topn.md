@@ -43,14 +43,27 @@
 </p>
 <p>
     As imagens abaixo mostram como são feitas as querys, e também o erro que é exibido em caso de<br />
-    ordenação por uma coluna sem ser a de tempo. O plugin deixa bem claro que somente uma<br />
+    ordenação por uma coluna sem ser a de tempo. O plugin deixa bem claro que somente uma ordem<br />
     pelo tempo, ou seja, pelo seu TimeStamp, é possível.
 </p>
 <img src="https://github.com/RicardoGoncal/Docker/blob/master/topn2.JPG" height="300" width="600">
 
 <img src="https://github.com/RicardoGoncal/Docker/blob/master/topn1.JPG" height="300" width="600">
+<p>
+    Com base nesse segundo estudo demonstrado, somos capazes de absorver mais uma integração<br />
+    que não foi possivel a combinação de ordenação de valores se tratando de métricas, sendo<br />
+    capaz de produzir paineis em formato de tabela para sua exibição.
+</p>
 
 <h3> Grafana e MySQL </h3>
 <p>
-    
+    Este ultimo teste consiste na utilização do MySQL como DataSource de pesquisa. Foi realizado<br />
+    também uma base de dados simples contendo um TimeStamp e informações de temperatura.<br />
+    O MySQL como plugin dentro do Grafana reage de uma maneira diferente, possibilitando<br />
+    uma mescla maior de manipulação de informações. 
+</p>
+<p>
+    A imagem abaixo demonstra uma query realizada em cima dos dados simulados. Foi utilizado a<br />
+    função de editar o código, algo que nos outros acima não era possivel. Se olharmos no campo<br />
+    'Format as', 
 </p>
